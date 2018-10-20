@@ -1,2 +1,2 @@
-Docker start some-mysql
-Docker start tomcat
+docker start some-mysql
+docker start tomcat
